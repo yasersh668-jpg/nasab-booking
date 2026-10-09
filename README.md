@@ -18,3 +18,6 @@ PHP، وردپرس
 ## نمونه‌ی اجرا
 security.yaserben.ir# nasab-booking
 افزونه‌ی مدیریت نوبت نصب دوربین و دزدگیر برای وردپرس
+## تصاویر
+![فرم ثبت نوبت](screenshots/form.png)
+![لیست درخواست‌ها](screenshots/requests-list.png)
